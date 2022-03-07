@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "axios": "^0.26.0"
+  },
+  "types": "./index.d.ts",
+  "name": "random-data.js",
+  "version": "1.0.0",
+  "description": "Unoffical Wrapper for https://random-data-api.com/",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "faker",
+    "data"
+  ],
+  "author": "jenil-dev",
+  "license": "MIT"
+}
